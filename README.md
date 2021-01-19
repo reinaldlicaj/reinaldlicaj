@@ -1,5 +1,5 @@
 ### Hello 👋
-Skilled Software engineer
+
 Currently working with Java/JavaScript/PHP to build beautiful and complex software solutions.I do my job with passion so it is easy for me to turn idea into a good software solution. Comfortable in team work and capable to design highly scalable systems.
 
 
