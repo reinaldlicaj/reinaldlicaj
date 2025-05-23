@@ -1,6 +1,7 @@
 ![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
-<h1 align="center"> Hi 👋, I'm Reinald Licaj</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center"> Hi  <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Reinald Licaj</h1>
+<h3>I am a Senior Software Engineer with over 6 years of programming experience.</h3>
+I specialize in building scalable and efficient software solutions using <strong>React</strong>, <strong>Typescript</strong> , and <strong>AWS</strong>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
